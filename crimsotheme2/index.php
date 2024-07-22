@@ -1,8 +1,10 @@
 <?php
 get_template_part('parts/preloader');
-get_template_part('parts/header');
 get_header();
 ?>
+<header>
+<?php get_template_part('parts/header'); ?>
+</header>
 
 <main id="main" class="site-main">
     <div id="primary" class="content-area">
