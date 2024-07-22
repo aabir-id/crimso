@@ -1,8 +1,4 @@
-<?php
 
-?>
-
-<header>
         <div class="navbar-area navbar-two">
             <div class="crimso-responsive-nav">
                 <div class="container">
@@ -193,4 +189,3 @@
                 </div>
             </div>
         </div>
-    </header>
